@@ -15,3 +15,10 @@ The perceptron is one of the earliest supervised learning algorithms used for bi
 - data/ # Training data (txt) and parameters
 - requirements/ # Python dependencies
 - README.md # This file
+
+# Requirements
+- numpy
+- matplotlib
+
+# Output
+![Figure_1](https://github.com/user-attachments/assets/e07b3e31-61c7-4706-b533-f0cb4bf7437c)
