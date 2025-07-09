@@ -11,7 +11,7 @@ The perceptron is one of the earliest supervised learning algorithms used for bi
 - Visualization of learned decision boundary
 
 # Project Structure
-├── src/ # Core Python files
-├── data/ # Training data (txt) and parameters
-├── requirements/ # Python dependencies
-└── README.md # This file
+- src/ # Core Python files
+- data/ # Training data (txt) and parameters
+- requirements/ # Python dependencies
+- README.md # This file
